@@ -1,22 +1,13 @@
 ![Matt's GitHub Banner](https://github.com/MatthewLSnell/MatthewLSnell/blob/66ccd776373a23e27006c30b6e8af38221bd53f0/GitHub%20Banner.png)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to the most demanding questions that plague businesses today.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel to analyze and visualize data. </div>  
   
 
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Tools and Technologies  
+## Tools and Technologies 
+<table><tr><td valign="top" width="33%"> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" />  
