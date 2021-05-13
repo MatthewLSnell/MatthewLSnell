@@ -1,5 +1,3 @@
-### Hi there ![](wave.gif)
-
 ![Matt's GitHub Banner](https://github.com/MatthewLSnell/MatthewLSnell/blob/66ccd776373a23e27006c30b6e8af38221bd53f0/GitHub%20Banner.png)
 <!--
 **MatthewLSnell/MatthewLSnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
