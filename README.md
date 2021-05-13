@@ -3,8 +3,8 @@
 ### <div align="center">I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to complex and interesting questions.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel and I'm currently learning Python. </div>  
 
 
-
 <p>&nbsp;</p>
+
 ## Connect with me  
 <a href="https://github.com/MatthewLSnell" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
