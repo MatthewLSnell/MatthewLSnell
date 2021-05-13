@@ -1,4 +1,4 @@
-### Hi there (https://github.com/MatthewLSnell/MatthewLSnell/blob/53e3964cff98c0c6a163b0070ea69e7a5cdb2e6e/wave.gif)
+### Hi there ![](wave.gif)
 
 ![Matt's GitHub Banner](https://github.com/MatthewLSnell/MatthewLSnell/blob/66ccd776373a23e27006c30b6e8af38221bd53f0/GitHub%20Banner.png)
 <!--
