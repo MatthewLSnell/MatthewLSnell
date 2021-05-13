@@ -2,7 +2,9 @@
 
 ### <div align="center">I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to complex and interesting questions.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel and I'm currently learning Python. </div>  
 
-<br/>
+
+
+
 ### Connect with me  
 <div align="center">
 <a href="https://github.com/MatthewLSnell" target="_blank">
@@ -13,7 +15,9 @@
 </a>  
 </div>  
 
-<br/>
+
+
+
 ### Tools and Technologies 
 <div align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
