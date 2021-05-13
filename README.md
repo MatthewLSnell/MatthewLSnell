@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Matt's GitHub Banner]
+[![Matt's GitHub Banner](GitHub Banner.png)
 <!--
 **MatthewLSnell/MatthewLSnell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
