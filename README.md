@@ -2,8 +2,15 @@
 
 ### <div align="center">I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to the most demanding questions that plague businesses today.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel to analyze and visualize data. </div>  
   
-
-<br/>  
+## Connect with me  
+<div align="center">
+<a href="https://github.com/MatthewLSnell" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/matthewsnell" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 
 ## Tools and Technologies 
