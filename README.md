@@ -1,7 +1,8 @@
 ![Matt's GitHub Banner](https://github.com/MatthewLSnell/MatthewLSnell/blob/66ccd776373a23e27006c30b6e8af38221bd53f0/GitHub%20Banner.png)
 
-### <div align="center">I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to the most demanding questions that plague businesses today.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel to analyze and visualize data. </div>  
-  
+### <div align="center">I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to complex and interesting questions.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel and I'm currently learning Python. </div>  
+
+
 ### Connect with me  
 <div align="center">
 <a href="https://github.com/MatthewLSnell" target="_blank">
