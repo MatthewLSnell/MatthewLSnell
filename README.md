@@ -1,6 +1,12 @@
 ![Matt's GitHub Banner](https://github.com/MatthewLSnell/MatthewLSnell/blob/66ccd776373a23e27006c30b6e8af38221bd53f0/GitHub%20Banner.png)
 
-### I'm Matt 👋 and I am an aspiring Data Scientist. Motivated by natural curiosity, I thrive on the challenge of sleuthing through data to find answers to complex and interesting questions.  I have experience using SQL, Power BI, Tableau, Alteryx, Microsoft Excel and I'm currently learning Python. </div>  
+### I'm Matt 👋
+
+My journey in data analytics, began a little over five years ago, when I first became a Claims Supervisor at Farmers Insurance. My goal was to become a more efficient supervisor and to gain deeper insight into what drove my team's performance. Through hours of practice and application, I became highly proficient in data analysis and data visualization tools, such as Microsoft Excel, SQL, Python, Alteryx, Tableau, Power BI.   After becoming proficient with these tools, I was able to expand my influence and positively contribute to my claims operation. 
+
+In 2018, I was nominated for Farmers Insurance’s prestigious Passion for Excellence Award for the design, development and maintenance of a dynamic excel reporting dashboard, which consolidated claims management key performance indicators and helped spur a 19% increase in the percentage of claims closed within 90 days
+
+When I am not in the office, I enjoy working on data science projects, watching movies or playing basketball.  To learn more about my current data science projects, please visit my portfolio website, matthewlawrencesnell.com. </div>  
 
 
 <p>&nbsp;</p>
