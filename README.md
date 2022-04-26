@@ -6,7 +6,7 @@ My journey in data analytics, began a little over five years ago, when I first b
 
 In 2018, I was nominated for Farmers Insurance’s prestigious Passion for Excellence Award for the design, development and maintenance of a dynamic excel reporting dashboard, which consolidated claims management key performance indicators and helped spur a 19% increase in the percentage of claims closed within 90 days
 
-When I am not in the office, I enjoy working on data science projects, watching movies or playing basketball.  To learn more about my current data science projects, please visit my portfolio website, matthewlawrencesnell.com. </div>  
+When I am not in the office, I enjoy working on data science projects, watching movies or playing basketball.  To learn more about my current data science projects, please visit my portfolio website, [https://www.matthewlawrencesnell.com/](https://www.matthewlawrencesnell.com/). </div>  
 
 
 <p>&nbsp;</p>
