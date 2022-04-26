@@ -20,6 +20,7 @@ When I am not in the office, I enjoy working on data science projects, watching 
 </a>  
 </div> 
 
+
 - 👨‍💻 All of my projects are available at [https://www.matthewlawrencesnell.com/](https://www.matthewlawrencesnell.com/)
 
 <p>&nbsp;</p>
