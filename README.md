@@ -20,7 +20,7 @@ When I am not in the office, I enjoy working on data science projects, watching 
 </a>  
 </div>  
 <p>&nbsp;</p>
-**Portfolio Website
+**Portfolio Website**
 https://www.matthewlawrencesnell.com/
 
 <p>&nbsp;</p>
