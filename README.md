@@ -29,7 +29,7 @@ When I am not in the office, I enjoy working on data science projects, watching 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <br/> 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewlsnell&count_private=true&show_icons=true&locale=en" alt="matthewlsnell" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewlsnell&count_private=true&show_icons=true&locale=en&theme=cobalt2" alt="matthewlsnell" /></p>
 
 </td><td valign="top" width="33%">
 
