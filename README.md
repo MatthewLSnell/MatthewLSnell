@@ -4,7 +4,7 @@
 
 My name is Matt Snell, and I'm a Data Analyst on the Actuary and Advanced Analytics team at Farmers Insurance. I love digging into complex datasets and discovering hidden patterns that can help drive business growth.  With my expertise in data analysis and visualization tools, including Python, SQL, Alteryx, Tableau, Power BI & Microsoft Excel, I've helped Farmers Insurance make data-driven decisions that have fueled growth and innovation.  When I'm not crunching numbers, I enjoy working on personal data science projects, to further develop my skills and stay up-to-date with the latest trends in the industry.  Let's connect and see how we can work together to turn your data into actionable insights.
 
-When I am not in the office, I enjoy working on data science projects, watching movies or playing basketball.  To learn more about my current data science projects, please visit my portfolio website, [https://www.matthewlawrencesnell.com/](https://www.matthewlawrencesnell.com/). </div>  
+</div>  
 
 <p>&nbsp;</p>
 
